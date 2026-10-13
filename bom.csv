@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_1x02_P1.00mm_Vertical,1,Conn_01x02,
+J2,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,1,JST_02,
+R1,01005,1,10k,
+SW1,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch_MP,
+"TP1, TP2, TP3, TP4",TestPoint_Keystone_5015_Micro_Mini,4,TestPoint,
+U1,LQFP-48_7x7mm_P0.5mm,1,STM32C031C6Tx,
+U2,SOT-23-5,1,MCP73831-2-OT,
